@@ -1,0 +1,5 @@
+env/
+#chaque ligne doit contenu ce que j'ignore ce qui ne doit pas etre synchronisé
+.env 
+#ce point est caché
+rcw.txt
